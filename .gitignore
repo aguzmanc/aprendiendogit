@@ -1,6 +1,11 @@
 Library/
 Logs/
 Temp/
+obj/
 .vscode/
 
 *.sln
+*.csproj
+
+
+ProjectSettings/ProjectVersion.txt
